@@ -200,4 +200,4 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 
-ppw_own.all_licenses.enc
+ppw_framework.licenses(import and print ppw_own.all_licenses.enc)ppw.certified
